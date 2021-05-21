@@ -16,3 +16,6 @@ List of examples used in several handbooks I have created on JavaScript!
 
 # Liked it?
 If you find it helpful, please give the repository a star(⭐).
+
+# List of Content
+- [Arrays](/arrays/index.js)
