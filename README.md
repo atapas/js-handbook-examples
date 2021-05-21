@@ -1,6 +1,9 @@
 # 📚 js-handbook-examples
 List of examples used in several handbooks I have created on JavaScript!
 
+# ✔️ List of Content
+- [Arrays](/arrays/index.js)
+
 # 🚀 How to run this project?
 - Clone this project.
 - Change the directory to the cloned project directory.
@@ -17,5 +20,8 @@ List of examples used in several handbooks I have created on JavaScript!
 # ⭐ Liked it?
 If you find it helpful, please give the repository a star(⭐).
 
-# ✔️ List of Content
-- [Arrays](/arrays/index.js)
+# 🏗️ You may Find these Projects Useful
+- [JS Tips & Tricks](https://github.com/atapas/js-tips-tricks)
+- [JS Array at() method](https://github.com/atapas/js-array-at-method)
+- [Array Color Cards](https://github.com/atapas/array-fill-color-cards)
+- [JS Array Sorting](https://github.com/atapas/js-array-sorting)
