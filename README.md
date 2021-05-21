@@ -1,7 +1,7 @@
 # 📚 js-handbook-examples
 List of examples used in several handbooks I have created on JavaScript!
 
-# ✔️ List of Content
+# ☑️ List of Content
 - [Arrays](/arrays/index.js)
 
 # 🚀 How to run this project?
