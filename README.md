@@ -3,6 +3,7 @@ List of examples used in several handbooks I have created on JavaScript!
 
 # ☑️ List of Content
 - [Arrays](/arrays/index.js)
+- [String](/string/index.js)
 
 # 🚀 How to run this project?
 - Clone this project.

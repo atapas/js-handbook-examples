@@ -3,7 +3,8 @@ import "array.prototype.at/auto";
 let { log } = console;
 
 log(
-  "%c **** The Logs below are from the Arrays Handbook ****",
+  `%c **** The Logs below are from the Arrays Handbook ****
+  Visit: https://www.freecodecamp.org/news/the-javascript-array-handbook/`,
   "color:green;font-size: 20px"
 );
 

@@ -1,7 +1,7 @@
 {
   "name": "js-tips-tricks",
   "version": "1.0.0",
-  "description": "The project to document examples of Javascript Tips & Tricks",
+  "description": "The project to document examples of Javascript Code Examples",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
